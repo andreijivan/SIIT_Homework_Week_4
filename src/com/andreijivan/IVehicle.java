@@ -1,6 +1,6 @@
 package com.andreijivan;
 
-public interface IBehaviour {
+public interface IVehicle {
     void start();
     void stop();
     void drive(int km);
